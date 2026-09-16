@@ -29,8 +29,8 @@ Objetivos🎯:
 - [x] Capturar requisições enviadas via método `POST`.
 - [x] Calcular a idade do usuário dinamicamente com base no ano atual do sistema.
 - [x] Gravar o histórico de acessos em um arquivo de texto (`log_acessos.txt`) usando funções de manipulação de arquivos no PHP.
-- [x] Validar a maioridade do usuário ($\ge 18$ anos) e retornar um alerta visual no navegador.
-
+- [x] Validar a maioridade do usuário ( 18$ anos ou mais) e retornar um alerta visual no navegador.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Turma: 1ID-DS
 
 Autora: Maria Eduarda Vieira👩‍💻
