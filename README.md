@@ -23,7 +23,9 @@ Nesta atividade de Backend, foi desenvolvido um formulário web interativo utili
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objetivos🎯:
-[x] Criar uma interface HTML acessível com formulário para entrada de dados.
+
+- [x] Capturar requisições enviadas via método `POST`.
+ Criar uma interface HTML acessível com formulário para entrada de dados.
 - [x] Capturar requisições enviadas via método `POST`.
 - [x] Calcular a idade do usuário dinamicamente com base no ano atual do sistema.
 - [x] Gravar o histórico de acessos em um arquivo de texto (`log_acessos.txt`) usando funções de manipulação de arquivos no PHP.
