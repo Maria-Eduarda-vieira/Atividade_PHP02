@@ -9,11 +9,11 @@ Nesta atividade de Backend, foi desenvolvido um formulário web interativo utili
 -HTML5 (Estruturação do formulário de cadastro)  
 -PHP (Processamento dos dados via POST e manipulação de arquivo .txt)
 
-###🎯 Exercícios em PHP
+🎯 Exercícios em PHP
 
 | # | / Atividade | Cadastro do usuário | Tópicos de PHP / Lógica |
 | :-: | :--- | :--- | :--- |
-| **01** |  **Verificação de idade** |	if / else, Operadores Aritméticos | Manipulação de Arquivos (`fopen`, `fwrite`), Métodos HTTP (`POST`), Funções de Data (`date`) |
+| **01** |  **Verificação de idade** |	Se o usuário tiver 18 anos ou mais, ele pode acessar | if / else, Operadores Aritméticos, Manipulação de Arquivos (`fopen`, `fwrite`), Métodos HTTP (`POST`), Funções de Data (`date`) |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objetivos🎯:
