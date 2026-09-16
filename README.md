@@ -13,17 +13,15 @@ Nesta atividade de Backend, foi desenvolvido um formulário web interativo utili
 
 | # | / Atividade | Cadastro do usuário | Tópicos de PHP / Lógica |
 | :-: | :--- | :--- | :--- |
-| **01** |  **Verificação de idade** | Aplicação de **10% de desconto** para compras a partir de `R$ 200,00`. | `if / else`, Operadores Aritméticos |
+| **01** |  **Verificação de idade** |	if / else, Operadores Aritméticos | Manipulação de Arquivos (`fopen`, `fwrite`), Métodos HTTP (`POST`), Funções de Data (`date`) |
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Objetivos🎯: 
-
--Aprender as funções 
-
--Aplicar os conteúdos aprendidos na aula de backebd.
-
--Desenvolver uma prática completa do PHP.
-
+Objetivos🎯:
+[x] Criar uma interface HTML acessível com formulário para entrada de dados.
+- [x] Capturar requisições enviadas via método `POST`.
+- [x] Calcular a idade do usuário dinamicamente com base no ano atual do sistema.
+- [x] Gravar o histórico de acessos em um arquivo de texto (`log_acessos.txt`) usando funções de manipulação de arquivos no PHP.
+- [x] Validar a maioridade do usuário ($\ge 18$ anos) e retornar um alerta visual no navegador.
 
 Turma: 1ID-DS
 
@@ -32,4 +30,4 @@ Autora: Maria Eduarda Vieira👩‍💻
 
 Data: 16/09/2026
 
-Como me ajudou: Compreendi o funcionamento de uma linguagem de programação.
+Como me ajudou: Compreendi o funcionamento de novas funções da linguagem PHP, aprendi a fazer requisições HTTP já vistas anteriormente, relacionei a captura de dados com o processamento deles e gravar eles em um arquivo .txt
