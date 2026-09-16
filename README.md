@@ -6,7 +6,11 @@ Nesta atividade de Backend, foi desenvolvido um formulário web interativo utili
 -------------------------------------------------
 **Ferramentas utilizadas 🛠️:**
 -Visual Studio Code
+
+
 -HTML5 (Estruturação do formulário de cadastro)  
+
+
 -PHP (Processamento dos dados via POST e manipulação de arquivo .txt)
 
 🎯 Exercícios em PHP
